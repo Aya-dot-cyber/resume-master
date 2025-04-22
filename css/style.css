@@ -81,13 +81,13 @@
 }
 
 .resume-wrapper .resume .skills ul {
-  height: 500px;
-  max-height: 500px;
+  height: 600px;
+  max-height: 585px;
 }
 
-/* .resume-wrapper .resume .skills ul li:not(.resume-wrapper .resume .skills ul li:first-child) {
+.resume-wrapper .resume .skills ul li:not(.resume-wrapper .resume .skills ul li:first-child) {
   margin-top: 0.2rem;
-} */
+}
 
 .resume-wrapper .resume .skills ul li[data-type=not-tech] {
   list-style-type: circle;
